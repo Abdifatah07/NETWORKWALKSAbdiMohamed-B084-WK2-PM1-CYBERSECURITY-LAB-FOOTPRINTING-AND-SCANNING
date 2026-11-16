@@ -162,7 +162,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 ![dnsrecon output](screenshots/7_zenmap.png)
 
 ![Zenmap scan and topology](screenshots/8_zenmap2.png)
-The screenshots you can find it in the screenshot folder.
+
+
+
 -End-
 
 
